@@ -1,0 +1,8 @@
+Youtube Link : https://www.youtube.com/watch?v=HJVRFN1ahLw
+
+INSTALLED PACKAGES :
+pip install pillow
+
+INSTALLED tkinter packages as :
+    by searching 'future' and installing it by selecting it manually.
+    Go to File > Settings > Project: [Your Project Name] > Python Interpreter. In pychram ide
